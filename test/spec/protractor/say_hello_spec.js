@@ -1,5 +1,3 @@
-var util = require('util');
-
 describe('Say Hello', function() {
   ptor = protractor.getInstance();
 
